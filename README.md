@@ -1,6 +1,4 @@
 # Stream Unlock
-[![](https://img.shields.io/badge/Telegram-Group-blue)](https://t.me/aioCloud)
-[![](https://img.shields.io/badge/Telegram-Channel-green)](https://t.me/aioCloud_channel) 
 
 流媒体解锁后端
 
