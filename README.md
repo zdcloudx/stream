@@ -1,7 +1,3 @@
-# Stream Unlock
-
-流媒体解锁后端
-
 ## 推荐系统
 - CentOS 8
 - Debian 9
@@ -33,12 +29,12 @@ nano /etc/stream.json
     "api": 8888,
 
     // 设置 API 密钥
-    "secret": "aioCloud",
+    "secret": "zdcloud",
 
     /*
         使用 API 接口
 
-        * * * * * curl -fsSL http://11.4.5.14:8888/aio?secret=aioCloud > /dev/null 2>&1 &
+        * * * * * curl -fsSL http://11.4.5.14:8888/aio?secret=zdcloud > /dev/null 2>&1 &
 
         把上面的命令加入到需要解锁的机器的 Cron 里即可，注意修改 地址、端口 和 密钥
     */
